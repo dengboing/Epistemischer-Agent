@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // tatsächlichen GitHub Repository-Namen!
 export default defineConfig({
   plugins: [react()],
-  base: '/epistemischer-assistent/',
+  base: 'dengboing/epistemischer-assistent/',
 })
